@@ -52,3 +52,6 @@ $lang['not_goal_message_failed'] = 'Kami gagal mencapai tujuan!<br /> Tipe Penca
 <br />Total Prestasi: %s
 <br />Waktu Dimulai: %s
 <br />Waktu Berakhir: %s';
+
+# Version 2.4.5
+$lang['goal_type_invoiced_amount'] = 'Invoiced Amount';

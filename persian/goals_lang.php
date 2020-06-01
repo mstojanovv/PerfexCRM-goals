@@ -52,3 +52,6 @@ $lang['not_goal_message_failed'] = 'ما در دستيابي به هدف شکس�
 <br />مجموع دستاوردها: %s
 <br />تاريخ شروع: %s
 <br />تاريخ پايان: %s';
+
+# Version 2.4.5
+$lang['goal_type_invoiced_amount'] = 'Invoiced Amount';

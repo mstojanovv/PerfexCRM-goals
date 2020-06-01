@@ -52,3 +52,6 @@ $lang['not_goal_message_failed'] = 'Non siamo riusciti ad ottenere l\'obiettivo!
 <br />Totale Obbiettivo: %s
 <br />Data Inizio: %s
 <br /> Data Termine: %s';
+
+# Version 2.4.5
+$lang['goal_type_invoiced_amount'] = 'Invoiced Amount';

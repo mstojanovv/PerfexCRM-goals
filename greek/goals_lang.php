@@ -53,3 +53,6 @@ $lang['not_goal_message_failed'] = 'Αποτυχία στην επίτευξη �
 <br />Total Achievement: %s
 <br />Start Date: %s
 <br />End Date: %s';
+
+# Version 2.4.5
+$lang['goal_type_invoiced_amount'] = 'Invoiced Amount';

@@ -52,3 +52,6 @@ $lang['not_goal_message_failed'] = 'Nepodarilo sa dosiahnúť cieľ!<br /> Typ c
 <br />Celkom dosiahnutí: %s
 <br />Dátum začiatku: %s
 <br />Dátum konca: %s';
+
+# Version 2.4.5
+$lang['goal_type_invoiced_amount'] = 'Invoiced Amount';

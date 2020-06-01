@@ -52,3 +52,6 @@ $lang['not_goal_message_failed'] = 'Chúng ta đã không đạt được mục 
 <br />Tổng số thành tựu: %s
 <br />Ngày bắt đầu: %s
 <br />Ngày kết thúc: %s';
+
+# Version 2.4.5
+$lang['goal_type_invoiced_amount'] = 'Invoiced Amount';

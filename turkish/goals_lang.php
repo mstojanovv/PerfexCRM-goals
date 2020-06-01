@@ -52,3 +52,6 @@ $lang['not_goal_message_failed'] = 'Hedefi Başaramadık!<br /> Hedep Tipi: %s
 <br />Toplam Başarı: %s
 <br />Başlangıç Tarihi: %s
 <br />Bitiş Tarihi: %s';
+
+# Version 2.4.5
+$lang['goal_type_invoiced_amount'] = 'Invoiced Amount';
