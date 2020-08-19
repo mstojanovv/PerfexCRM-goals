@@ -47,11 +47,11 @@ $lang['not_goal_message_success']                                       = 'Tebri
 <br />Tüm Başarılar: %s
 <br />Başlangıç Tarihi: %s
 <br />Bitiş Tarihi: %s';
-$lang['not_goal_message_failed'] = 'Hedefi Başaramadık!<br /> Hedep Tipi: %s
+$lang['not_goal_message_failed'] = 'Hedefi Başaramadık!<br /> Hedef Tipi: %s
 <br />Hedef Başarı: %s
 <br />Toplam Başarı: %s
 <br />Başlangıç Tarihi: %s
 <br />Bitiş Tarihi: %s';
 
 # Version 2.4.5
-$lang['goal_type_invoiced_amount'] = 'Invoiced Amount';
+$lang['goal_type_invoiced_amount'] = 'Faturalandırılan Tutar';
