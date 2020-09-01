@@ -56,4 +56,4 @@ $lang['not_goal_message_failed'] = 'Мы не смогли достичь пос
 <br />Дата окончания: %s';
 
 # Version 2.4.5
-$lang['goal_type_invoiced_amount'] = 'Invoiced Amount';
+$lang['goal_type_invoiced_amount'] = 'Сумма счета';
